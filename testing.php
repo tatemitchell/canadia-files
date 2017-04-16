@@ -1,23 +1,19 @@
 <html>
 	<head>
-		<title>Gilberts</title>
+		<title>Canadia > Testing</title>
 		<link rel="stylesheet" type="text/css" href="files.css">
+		<meta charset="UTF-8">
+      <meta name="description" content="Canadia Files">
+      <meta name="keywords" content="Files, Secrets, Canadia">
+      <meta name="author" content="Nathan Hoehndorf, Tate Mitchell">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
 		<div class="header">
 		 <h1>Canadia</h1>
 		</div>
-		<div class="nav">
-			<ul>
-				<li><a class="active" href="index.html"><b>Home</b></a></li>
-				<li><a href="myapps.html">My Apps</a></li>
-				<li><a href="howicode.html">How I code</a></li>
-				<li><a href="colorblindness.html">Colorblindness</a></li>
-				<li><a href="clock.html">Clock</a></li>
-			</ul>
-		</div>
 		<div class="content">
-			<h2>Welcome to the Canadia jobs page!</h2>
+			<h2>Welcome to the Canadia testing page!</h2>
 			
 <br>
     </body>
