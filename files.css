@@ -6,7 +6,7 @@ h1, h2, h3, h4, h5, h6, p, img, ul, ol, li{
 	font-family: Verdana,"Times New Roman", Arial;
 }
 body {
-	background-color: #c800ff;
+	background-color: #000000;
 }
 h1{
 	font-size: 48px;
@@ -15,7 +15,7 @@ h1{
 
 }
 .header{
-	background-color: #e37fff;
+	background-color: #262626;
 	margin-top: 15px;
 	padding-top: 1px;
 	padding-bottom:1px;
@@ -26,37 +26,9 @@ h1{
 	color:#ffffff;
 }
 
-.nav ul{
-	list-style-type:none;
-	margin: 0;
-	padding: 0;
-	overflow:hidden;
-	background-color: #d333ff;
-}
-.nav li{
-	float:left;
-}
-.nav li a{
-	display:block;
-	color: white;
-	text-align:center;
-	padding:14px 16px;
-	text-decoration: none;
-}
-.nav {
-	padding-top:1px;
-}
-
-li a:hover:not(.active) {
-    background-color: #780099;
-}
-
-.active{
-	background-color: #560077;
-}
 
 .content{
-	background-color:#e37fff;
+	background-color:#262626;
 	padding-left:1px;
 	padding-right:1px;
 	height:1000px;
@@ -73,4 +45,8 @@ li a:hover:not(.active) {
 .clock {
 	text-align: center;
 	font-size: 100;
+}
+
+h1,h2,h3,h4,h5,h6,p,ol,ul,li{
+	color:#ffffff;
 }
