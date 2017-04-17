@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Canadia Files</title>
+        <link rel="stylesheet" type="text/css" href="files.css">
       <meta charset="UTF-8">
       <meta name="description" content="Canadia Files">
       <meta name="keywords" content="Files, Secrets, Canadia">
@@ -47,17 +48,17 @@
                 <p><a href="files.html">
                     <?php
                     
+                    
+                    ?>
+                </a></p>
+                <p><a href="files.html">
+                    <?php
+                    
                     if ($_POST["username"] != "") {
                         
-                        if ($_POST)
+                        if ($_POST["username"] )
                         
-                    }
                     
-                    else {
-                        
-                        
-                        
-                    }
                     
                     ?>
                 </a></p>

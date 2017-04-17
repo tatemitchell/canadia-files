@@ -7,18 +7,11 @@
 		<div class="header">
 		 <h1>Canadia</h1>
 		</div>
-		<div class="nav">
-			<ul>
-				<li><a class="active" href="index.html"><b>Home</b></a></li>
-				<li><a href="myapps.html">My Apps</a></li>
-				<li><a href="howicode.html">How I code</a></li>
-				<li><a href="colorblindness.html">Colorblindness</a></li>
-				<li><a href="clock.html">Clock</a></li>
-			</ul>
-		</div>
 		<div class="content">
 			<h2>Welcome to the Canadia jobs page!</h2>
 			
 <br>
+
+		
     </body>
 </html>

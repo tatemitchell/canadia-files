@@ -14,7 +14,117 @@
 		</div>
 		<div class="content">
 			<h2>Welcome to the Canadia testing page!</h2>
-			
+			<h1>
+            <?php
+            
+            echo "Here" . " " . "are" . " " . "the" . " " . "files" . " " . "for" . " " . "people" . " " . "in" . " " . "Canadia" . "!";
+            
+            ?>
+        </h1>
+        <table>
+            <tr>
+                <td>
+                    <?php
+                    
+                    echo "Tate" . " " . "Mitchell" . "!";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Jack" . " " . "Haag";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Hassan" . " " . "Safieddine";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Leo" . " " . "Thomas";
+                    
+                    ?>
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <?php
+                    
+                    echo "Nathan" . " " . "Hoehndorf";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Cade" . " " . "Bosler";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Sofia" . " " . "Seidel";
+                    
+                    ?>
+                    <br>
+                </td>
+            </tr>
+                <td>
+                    <?php
+                    
+                    echo "Olivia" . " " . "Corson";
+                    
+                    ?>
+                    <br>
+                </td>
+                <tr>
+                <td>
+                    <?php
+                    
+                    echo "Renn" . " " . "Gilbert";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Kayne" . " " . "Smith";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Thaddeus" . " " . "Green";
+                    
+                    ?>
+                    <br>
+                </td>
+                <td>
+                    <?php
+                    
+                    echo "Devon" . " " . "Archuleta"
+                    
+                    ?>
+                    <br>
+                </td>
+            </tr>
+        </table>
 <br>
     </body>
 </html>
