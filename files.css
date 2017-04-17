@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, p, img, ul, ol, li{
+ h2, h3, h4, h5, h6, p, img, ul, ol, li{
 	border: 0px;
 	margin; 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
@@ -12,6 +12,10 @@ h1{
 	font-size: 48px;
 	Font-family:Verdana,"Times New Roman", Arial;
 	text-align: center;
+	border: 0px;
+	margin:0px;
+	padding: 0px;
+	
 
 }
 .header{
@@ -44,4 +48,8 @@ h1{
 .clock {
 	text-align: center;
 	font-size: 100;
+}
+
+h1,h2,h3,h4,h5,h6,p,li,ul,ol{
+	color:#ffffff;
 }
